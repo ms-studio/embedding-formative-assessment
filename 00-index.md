@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index Page
+title: Index
 permalink: index.html
 ---
 
