@@ -19,3 +19,7 @@ Structure:
   - Stratégie 3 : Feedback
   - Stratégie 4 : Activating students as learning resources for one another
   - Stratégie 5 : Activating students as owners of their own learning
+
+  Schéma des cinq stratégies:
+
+  ![](img/five-key-strategies.png)
