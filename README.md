@@ -9,7 +9,7 @@ Ce livre suit le livre précédent des mêmes auteurs, *Embedded Formative Asses
 
 Le focus du présent livre: comment implémenter de manière durable le *formative assessment* dans son enseignement.
 
-Structure: 
+## Structure du livre
 
 - Chapitre 1 : introduction sur le *formative assessment*
 - Chapitre 2 : développement professionnel des enseignants
@@ -20,6 +20,6 @@ Structure:
   - Stratégie 4 : Activating students as learning resources for one another
   - Stratégie 5 : Activating students as owners of their own learning
 
-  Schéma des cinq stratégies:
+  ## Schéma des cinq stratégies
 
   ![](img/five-key-strategies.png)

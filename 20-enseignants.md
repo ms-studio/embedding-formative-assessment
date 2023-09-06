@@ -12,6 +12,8 @@ Il y a un grand nombre d'idées à disposition, mais souvent trop peu de soutien
 
 *Accountability* : l'enseignant devrait rendre compte de ses améliorations (p.ex. à un groupe d'entraide)
 
+## Structure de réunion
+
 Les auteurs présentent **une structure pour TLC** (Teacher Learning Community):
 
 - Groupe de 8-12 enseignant-es (recommandé: 10 à 12)
@@ -21,7 +23,7 @@ Les auteurs présentent **une structure pour TLC** (Teacher Learning Community):
 - Une structure standard est proposée (p.24-25)
 - Un engagement écrit (*written commitment*) est produit à la fin de chaque meeting
 
-Structure proposée:
+### Structure standard de réunion:
 
 | Phase  | Durée  | Description          |
 |:------ |:------ |:-------------------- |
