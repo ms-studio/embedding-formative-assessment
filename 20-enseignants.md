@@ -6,11 +6,11 @@ permalink: chapter-2.html
 
 ## Comment aider les enseignants à changer leurs pratiques
 
-Besoin des enseignants: un aide pour mettre (les changements) en action de manière durable. 
+Besoin des enseignants: de l'aide pour mettre (les changements) en action de manière *durable*. 
 
 Il y a un grand nombre d'idées à disposition, mais souvent trop peu de soutien pour les mettre en application. Les enseignants ont besoin d'aide pour créer de nouvelles habitudes.
 
-*Accountability* : l'enseignant devrait rendre compte de ses améliorations (p.ex. à un groupe d'entraide)
+*Accountability* : l'enseignant devrait rendre compte de ses améliorations (p.ex. à un groupe d'entraide).
 
 ## Structure de réunion
 

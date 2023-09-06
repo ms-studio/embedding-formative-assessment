@@ -54,8 +54,15 @@ Il faut s'interroger comment nommer les niveaux de qualification :
 - Below basic / Basic / Proficient / Advanced
 - Novice / Apprentice / Practictioner / Expert
 
+Exemple de "rubric" permettant un feedback rapide:
+
+ ![Exemple de Rubric](img/exemple-rubric.png)
+
+
 ## Big Ideas
 
 "The big idea" donne une vision globale pour un ensemble de leçons. Il devrait y en avoir 5 à 10 pour une matière.
 
 50% à 60% du curriculum devrait être constitué de "Big Ideas" (dans l'idéal).
+
+ ![Exemples de Big Ideas dans différent domaines](img/exemples-big-ideas.png)
