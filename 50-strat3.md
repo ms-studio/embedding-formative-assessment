@@ -74,3 +74,4 @@ On pourra par exemple procéder ainsi:
 ## Ressources
 
 - Stone & Heen (2014): *Thanks for the Feedback: The Science and Art of Receiving Feedback Well*
+- Lemov, Woolway & Yezzi (2012): *Practice Perfect: 42 Rules for Getting Better at Getting Better*
