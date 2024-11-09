@@ -49,6 +49,14 @@ Les "Hinge Questions" permettent à l'enseignant-e de déterminer s'il faut avan
 
 Pour ces "questions-seuil", il est conseillé de les concevoir au format QCM, avec au minimum 3 réponses possibles. 
 
+## En résumé, des manières d'appliquer cette stragéie
+
+- Vérifier au moins une fois par leçon ce que chaque étudiant a compris, avec un système permettant à l'ensemble de la classe de répondre.
+- Des élèves posent des questions, d'autres élèves répondent.
+- Utiliser des "affirmations" plutôt que des questions, pour encourager des réponses approfondies.
+- Utiliser des "[learning logs](img/learning-log.png)", "exit cards", ou autre moyen de récolter des réponses des élèves.
+- Tester les élèves, observer leurs réponses, et adapter son enseignement. 
+
  ## Ressources
 
  - Brown & Wragg (1993): *Questioning*
