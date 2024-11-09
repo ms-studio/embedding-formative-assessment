@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stratégie 3
+title: Stratégie 3 - Feedback
 permalink: strategie-3.html
 ---
 

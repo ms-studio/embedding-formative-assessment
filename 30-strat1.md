@@ -13,7 +13,10 @@ Questions à se poser (selon Tyler, 1949):
 3. Comment organiser efficacement les expériences?
 4. Comment déterminer si l'objectif a été atteint?
 
-Il n'est pas obligatoire de citer les "learning intentions" au début de chaque cours.
+- Il n'est pas obligatoire de citer les "learning intentions" au début de chaque cours.
+- Parfois l'activité pédagogique n'est pas dirigée vers un "objectif précis" mais un horizon de possibilités. Ou centrée une expérience, une tâche propre à engendrer des apprentissage.
+- Parfois, une amorce peut davantage susciter la curiosité si l'objectif final n'est pas annoncé.
+- Les élèves ne sont pas toujours motivés par l'apprentissage. L'enseignant-e devrait trouver une accroche, pour rendre *vivante* la matière à enseigner.
 
 Développer de bonnes "learning intentions" et "success criteria" est une tâche très difficile.
 
@@ -30,7 +33,7 @@ Conseils:
 
 ## Start with samples of work
 
-"Start with **samples of work**, rather than rubrics, to communicate quality".
+"Start with **samples of work**, rather than rubrics, to communicate quality". "Plutôt qu'une liste de critères, commencer en montrant des **exemples de travaux**".
 
 Avantages de cette méthode:
 
@@ -46,13 +49,13 @@ Un "Rubric" (grille de critères):
 - C'est une collection de "success criteria".  
 - Devrait pouvoir s'appliquer à plusieurs types de travaux, pas une seule tâche.
 - Peut prendre différentes formes.
-- Peut être une checklist : cela permet une auto-évaluation.
+- Ça peut être une checklist : cela permet une auto-évaluation.
 
-Il faut s'interroger comment nommer les niveaux de qualification :
+Il faut s'interroger comment on nomme les niveaux de qualification :
 
-- 1/2/3/4
-- Below basic / Basic / Proficient / Advanced
-- Novice / Apprentice / Practictioner / Expert
+- 1 – 2 – 3 – 4
+- Below basic – Basic – Proficient – Advanced
+- Novice – Apprentice – Practictioner – Expert
 
 Exemple de "rubric" permettant un feedback rapide:
 
@@ -61,8 +64,10 @@ Exemple de "rubric" permettant un feedback rapide:
 
 ## Big Ideas
 
-"The big idea" donne une vision globale pour un ensemble de leçons. Il devrait y en avoir 5 à 10 pour une matière.
+"The big idea" donne une vision globale pour un ensemble de leçons. Il devrait y en avoir entre 5 et 10 pour une matière.
 
 50% à 60% du curriculum devrait être constitué de "Big Ideas" (dans l'idéal).
 
  ![Exemples de Big Ideas dans différent domaines](img/exemples-big-ideas.png)
+ 
+ 
