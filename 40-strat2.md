@@ -20,22 +20,22 @@ Comment savoir ce que l'élève sait ?
 - Ne pas accepter les "je ne sais pas". Il est possible de soutenir l'élève avec des questions à choix multiples, ou en lui permettant d'interroger d'autres élèves. L'élève questionné doit dans ce cas identifier la bonne réponse et la reformuler.
 - Poser d'abord la question, puis ensuite choisir l'élève. Tant que l'élève n'est pas désigné, cela engage toute la classe à réfléchir.
 
-Options: 
+Autres conseils: 
 
-- Après avoir posé la question, laisser une pause de quelques secondes. Ensuite, désigner l'élève qui répondra.
+- Après avoir posé la question, laisser une pause de plusieurs secondes. Ensuite seulement, désigner l'élève qui répondra (si l'élève est désigné avant, certains ne prêteront aucune attention à la question).
 - Après la première réponse, désigner aléatoirement un autre élève, qui doit décider si la réponse était correcte.
 - Après les questions-réponses, l'élève suivant doit résumer ce qui a été dit.
 
 Il est important de planifier les questions. Il faut prendre le temps pour une bonne formulation, concise.
 
-Les questions ne sont pas le seul format. On peut demander à l'élève de **réagir à une affirmation** (*respond to a statement*). Cela peut mener à une discussion. 
+Les questions ne sont pas le seul format d'interaction. On peut demander à l'élève de **réagir à une affirmation** (*respond to a statement*). Cela peut mener à une discussion. 
 
 Différents types d'écoute peuvent être adoptés par l'enseignant: 
 
-- Evaluative : veut entendre la réponse juste.
-- Interprétative : s'intéresse à ce que *pense* l'élève.
+- **Evaluative** : veut entendre la réponse juste.
+- **Interprétative** : s'intéresse à ce que *pense* l'élève.
 
-Sur les "Exit Tickets": ils doivent donner une information, anonyme, sur les connaissances de l'ensemble de la classe, et doivent aider à la prise de décision.
+Sur les "*Exit Tickets*": ils doivent donner une information, anonyme, sur les connaissances de l'ensemble de la classe, et doivent aider à la prise de décision.
 
 Il est possible aussi de demander aux élèves de produire des questions. Par exemple, chaque élève doit produire, pour la fin de la leçon, 2 à 3 questions sur la matière du cours. 
 

@@ -25,13 +25,13 @@ Les auteurs présentent **une structure pour TLC** (Teacher Learning Community):
 
 ### Structure standard de réunion:
 
-| Phase  | Durée  | Description          |
+| Phase  | Durée (total: 1h30)  | Description          |
 |:------ |:------ |:-------------------- |
 |  Introduction |  5 min | La facilitatrice distribue l'ordre du jour et présente les intentions d'apprentissage de la réunion.   |
 |  Activité de démarrage | 5 min | Activité aidant les participants à se focaliser sur leur apprentissage.   |
-|  Feedback |  25 min | Chaque enseignant.e donne un résumé de ce qu'elle a fait à la suite du meeting précédent. Les autres écoutent et offrent du soutien pour la mise en œuvre. |
-|  Nouveaux apprentissages | 25 min | Une activité pour se familiariser avec de nouvelles idées sur la pédagogie (évaluation formative etc.). Activité, visionnement d'une vidéo, discussion d'un article ou extrait de livre... |
-|  Planification des actions personnelles | 15 min | Les participante.s planifient de manière détaillée ce qu'ils comptent accomplir d'ici le prochain meeting. C'est le moment de planifier des visites d'observation croisées. |
-|  Résumé des apprentissages | 10 min | Le groupe détermine si l'objectif fixé en début de séance a été atteint. |
+|  Feedback |  25&nbsp;min | Chaque enseignant.e donne un résumé de ce qu'elle a fait à la suite du meeting précédent. Les autres écoutent et offrent du soutien pour la mise en œuvre. |
+|  Nouveaux apprentissages | 25&nbsp;min | Une activité pour se familiariser avec de nouvelles idées sur la pédagogie (évaluation formative etc.). Activité, visionnement d'une vidéo, discussion d'un article ou extrait de livre... |
+|  Planification des actions personnelles | 15&nbsp;min | Les participante.s planifient de manière détaillée ce qu'ils comptent accomplir d'ici le prochain meeting. C'est le moment de planifier des visites d'observation croisées. |
+|  Résumé des apprentissages | 10&nbsp;min | Le groupe détermine si l'objectif fixé en début de séance a été atteint. |
 
 
