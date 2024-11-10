@@ -6,20 +6,22 @@ permalink: strategie-3.html
 
 ## Stratégie 3 : Feedback
 
-Ce chapitre commence par présenter certains éléments de la recherche sur le "feedback", en particuler une étude de 1996 (Kluger & DeNisi, psychologues à l'Université de New Jersey). Dans cette étude, les chercheurs ont analysé des milliers d'articles portant sur **l'effet du feedback sur la performance**. Dans 38% pourcent des études, le résultat du feedback est négatif. En moyenne, le feedback amène une amélioration d'un ordre de 0.41 (cela signifie qu'un étudiant moyen verrait sa performance monter à 66%, un peu au-dessus de la moyenne).
+Ce chapitre commence par présenter certains éléments de la recherche sur le "feedback", en particuler une étude de 1996 (Kluger & DeNisi, psychologues à l'Université de New Jersey). Dans cette étude, les chercheurs ont analysé des milliers d'articles portant sur **l'effet du feedback sur la performance**. Selon 38% des études, le résultat du feedback est *négatif*. En moyenne, le feedback amène une amélioration d'un facteur de 0.41 (cela signifie qu'un étudiant moyen verrait sa performance monter de 50% à 66%, un peu au-dessus de la moyenne).
 
-Les chercheurs ont établi la théorie qu'un sujet peu réagir au feedback de quatre manières: changer son comportement, changer son objectif, abandonner son objectif, ou ignorer le feedback. Selon la situation - feedback positif ou négatif - il y a donc huit réactions possibles, parmi lesquelles *seules deux* sont souhaitables (en gras dans le schéma). Cela explique pourquoi le feedback peut si facilement être contre-productif.
+Les chercheurs ont établi qu'un sujet peut réagir au feedback de quatre manières: changer son comportement, changer son objectif, abandonner son objectif, ou ignorer le feedback. Selon la situation - feedback positif ou négatif - il y a donc huit réactions possibles, parmi lesquelles *seules deux* sont souhaitables (en gras dans le schéma ci-dessous). Cela explique pourquoi le feedback peut si facilement devenir contre-productif!
 
  ![Réactions possibles au feedback](img/reactions-possibles.png)
 
 Principes importants du feedback: 
 
-- La chose qui compte, c'est la réaction de l'élève.
+- La seule chose qui compte, c'est la réaction de l'élève.
 - Le feedback a un effet si l'élève l'utilise pour s'améliorer. Sinon, c'est une perte de temps.
 
-Le facteur le plus important pour la bonne utilisation du feedback est **la relation** construite avec l'élève. C'est pourquoi il est important de connaître les élèves, et établir un lien de confiance.
+Le facteur le plus important pour la bonne utilisation du feedback est **la relation** construite avec l'élève. C'est pourquoi il est important de connaître ses élèves, et établir un lien de confiance.
 
 L'étude de Stone & Heen "Thanks for the feedback" (2014) décrit trois types de "triggers" qui déclenchent un rejet, et empêchent la bonne utilisation du feedback.
+
+### Conception incrémentelle de l'intelligence
 
 Un point important est la "conception de l'intelligence": envisager l'intelligence non comme une capacité fixe, mais incrémentelle. Une qualité dynamique et améliorable grâce aux efforts fournis, qui peut croître en travaillant sur des problèmes.
 
@@ -49,19 +51,19 @@ Recommandation sur la part de travail des élèves à évaluer:
 - Un quart fait l'objet d'un "peer assessment".
 - Le quart restant est auto-évalué.
 
-"Never work harder than your students!" - le feedback devrait donner plus de travail à l'élève qu'à l'enseignant. On peut ainsi demander que les élèves réagissent au feedback. Une "fiche de feedback" ou un "carnet de feedback" (feedback log notebook) peuvent être utilisés.
+*"Never work harder than your students!"* - le feedback devrait donner plus de travail **à l'élève** qu'à l'enseignant. On peut ainsi demander que les élèves réagissent au feedback. Une "fiche de feedback" ou un "carnet de feedback" (*feedback log notebook*) peuvent être utilisés.
 
 Conseils:
 
-- Lier le feedback aux "success criteria".
-- "Find it and fix it". Ne pas forcément révéler les erreurs, plutôt dire: "ce rendu comporte 3 erreurs, trouvez-les".
+- Lier le feedback aux "*success criteria*".
+- "*Find it and fix it*". Ne pas forcément révéler les erreurs, plutôt dire: "ce rendu comporte trois erreurs, trouvez-les".
 - Ne pas donner *trop* de feedback, ne pas chercher à corriger *chaque* faute.
 
 ### Notes vs. commentaires
 
 - Donner "uniquement des commentaires" conduit à davantage d'améliorations.
 - Donner des notes diminue l'effet des commentaires.
-- Réduire la fréquence des évlauations notées.
+- Réduire la fréquence des évaluations notées.
 - Ne donner une note qu'à la fin d'une séquence d'apprentissage.
 
 On pourra par exemple procéder ainsi: 
@@ -69,7 +71,6 @@ On pourra par exemple procéder ainsi:
 1. Donner un commentaire dans le cadre d'une pré-évaluation.
 2. Laisser un temps pour l'amélioration.
 3. Finalement, mettre la note sur le travail achevé.
-
 
 ## Ressources
 
