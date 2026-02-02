@@ -11,9 +11,9 @@ Le focus du présent livre: comment implémenter de manière durable le *formati
 
 ## Structure du livre
 
-- Chapitre 1 : introduction sur le *formative assessment*
-- Chapitre 2 : développement professionnel des enseignants
-- Chapitres 3 à 7 : les cinq principales stratégies
+- **Chapitre 1** : introduction sur le *formative assessment*
+- **Chapitre 2** : développement professionnel des enseignants
+- **Chapitres 3 à 7** : les cinq principales stratégies
   - Stratégie 1 : Clarifier, partager et comprendre les intentions d'apprentissage.
   - Stratégie 2 : Engineering effective discussions
   - Stratégie 3 : Feedback
